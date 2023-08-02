@@ -188,4 +188,7 @@ main section article ul {
     main section article div ul {
         justify-content:flex-end;
     }
+    #golden-globe div ul{
+        justify-content: flex-start;
+    }
 }
